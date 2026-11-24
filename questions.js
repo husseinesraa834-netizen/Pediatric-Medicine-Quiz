@@ -1,0 +1,4 @@
+const questionBank = {
+    mcq: [],
+    tf: []
+};
